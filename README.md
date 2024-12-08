@@ -22,3 +22,5 @@ The aim of this project is to develop a system that can detect distracted drivin
 ## Documentation and Reporting:
 - Documentation: Document the entire process, including data collection, preprocessing, model development, and evaluation.
 - Reporting: Compile the results into a comprehensive report, highlighting key findings, challenges, and potential improvements.
+## Dataset used:
+- url:-https://www.kaggle.com/c/state-farm-distracted-driver-detection/data
